@@ -1,0 +1,3 @@
+Written by chris mccabe at justni.com
+
+A simple library to drop into codeigniter and track facebook album names as i couldnt find away to query if an album had been created that matched a certain name
